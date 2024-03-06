@@ -1,7 +1,12 @@
 body{
     background-image:url("img/alap.jpg");
-    margin: auto 0;
+    
+}
+div{
     width: 900px;
+    margin: 0 auto;
+    padding: 12px;
+
 }
 .right{
     text-align: right;
